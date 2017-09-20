@@ -1,0 +1,13 @@
+body{
+	background: red;
+	color: #fff;
+}
+#progress-line{
+	width: 0%;
+	height: 6px;
+	background-color: #fff;
+	position: fixed;
+	display: block;
+	top: 0;
+	left: 0;
+}
